@@ -1,2 +1,2 @@
 # Redmi
-test paperd
+test paper
